@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandhu-co-in
+- 👋 Hi, I’m @anandhu
 - 👀 I’m interested in web development and automation
 - 🌱 I’m currently learning MERN stack (https://github.com/anandhu-co-in/devConnector_MERN)
 - 📫 How to reach me ... linkedin
