@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://gifimage.net/wp-content/uploads/2018/06/walk-gif-4.gif" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Hey there 👋! Glad to see you here ❤️</h2>
+<!--  <h2 align="center">Hey there 👋! Glad to see you here ❤️</h2> -->
 <!--  <h4 align="center">Hi I am Anandhu</h4>  -->
 </p>
  
