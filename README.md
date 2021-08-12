@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://raw.githubusercontent.com/anandhu-co-in/anandhu-co-in-personal-website/master/images/apple-touch-icon.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hey there 👋! Glad to see you here ❤️</h2>
 <!--  <h4 align="center">Hi I am Anandhu</h4>  -->
 </p>
