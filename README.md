@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @anandhu
 - 👀 I’m interested in web development and automation
-- 🌱 I’m currently learning ----- flutter
+- 🌱 I’m currently learning ----- flutter, Docker containers, Kubernetes, Openshift
 - 📫 How to reach me ... https://www.anandhu.co.in
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandhu-co-in&show_icons=true)
